@@ -1,11 +1,10 @@
 # Hi there 👋 My name is Yamani Yassine - Software Engineer
 
-<div style="display: flex; flex-direction: column; align-items: flex-start;">
-  <strong>🔭 I’m currently building:</strong>
-  <span>
-    A platform for international students in France 🇫🇷 — guiding them from their arrival to diploma 🧳📚. It covers key steps like visa, housing, enrollment, and academic milestones.
-  </span>
-</div>
+#### 🔭 I’m currently building:
+
+A platform for international students in France 🇫🇷 — guiding them from their arrival to diploma 🧳📚.  
+It covers key steps like visa, housing, enrollment, and academic milestones.
+
 
 
 
