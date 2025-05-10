@@ -32,8 +32,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=YamaniYassine&theme=default&hide_border=true&include_all_commits=true&count_private=true)<br/>
 -->
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=YamaniYassine&theme=default&hide_border=true" height="140" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YamaniYassine&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="140" alt="Top Langs"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=YamaniYassine&theme=default&hide_border=true" height="160" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YamaniYassine&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="160" alt="Top Langs"/>
 </p>
 
 
