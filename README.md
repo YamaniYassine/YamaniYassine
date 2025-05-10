@@ -25,9 +25,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=YamaniYassine&theme=default&hide_border=true&include_all_commits=true&count_private=true)<br/>
 -->
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=YamaniYassine&theme=default&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YamaniYassine&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=YamaniYassine&theme=default&hide_border=true" height="150" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YamaniYassine&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150" alt="Top Langs"/>
 </p>
+
 
 <!--
 ## 🏆 GitHub Trophies
