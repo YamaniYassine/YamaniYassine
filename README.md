@@ -1,9 +1,12 @@
 # Hi there 👋 My name is Yamani Yassine - Software Engineer
 
-<div style="display: flex; flex-direction: row; align-items: flex-start; gap: 8px; flex-wrap: wrap;">
+<div style="display: flex; flex-direction: column; align-items: flex-start;">
   <strong>🔭 I’m currently building:</strong>
-  <span>a platform for international students in France 🇫🇷 — guiding them from their arrival to diploma 🧳📚. It covers key steps like visa, housing, enrollment, and academic milestones.</span>
+  <span>
+    A platform for international students in France 🇫🇷 — guiding them from their arrival to diploma 🧳📚. It covers key steps like visa, housing, enrollment, and academic milestones.
+  </span>
 </div>
+
 
 
 ####  🌱  I’m currently learning : ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
