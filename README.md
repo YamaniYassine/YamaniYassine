@@ -1,8 +1,6 @@
 # Hi there 👋 My name is Yamani Yassine - Software Engineer
 
-#### 🔭 I’m currently building:
-A platform for international students in France 🇫🇷 — guiding them from their arrival to diploma 🧳📚.  
-It covers key steps like visa, housing, enrollment, and academic milestones.
+#### 🔭 I’m currently building: A platform for international students in France 🇫🇷
 
 
 
