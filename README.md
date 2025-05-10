@@ -2,6 +2,8 @@
 
 #### 📫 How to reach me : yamani.yassine.dev@gmail.com
 
+#### 🔭 I’m currently building a platform for international students in France 🇫🇷 — guiding them from their arrival to diploma 🧳📚. It covers key steps like visa, housing, enrollment, and academic milestones.
+
 #### 🌱 I’m currently learning : ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
 <!--
