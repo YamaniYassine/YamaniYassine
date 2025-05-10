@@ -1,10 +1,14 @@
 # Hi there 👋 My name is Yamani Yassine - Software Engineer
 
-#### 📫 How to reach me : yamani.yassine.dev@gmail.com
-
 #### 🔭 I’m currently building a platform for international students in France 🇫🇷 — guiding them from their arrival to diploma 🧳📚. It covers key steps like visa, housing, enrollment, and academic milestones.
 
 #### 🌱 I’m currently learning : ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+
+<p>
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="email logo" />
+  <strong>Contact me at:</strong> <a href="mailto:yamani.yassine.dev@gmail.com">yamani.yassine.dev@gmail.com</a>
+</p>
+
 
 <!--
 - 🔭 I’m currently working on ...
