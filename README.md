@@ -2,7 +2,7 @@
 
 #### 📫 How to reach me : yamani.yassine.dev@gmail.com
 
-#### 🌱 I’m currently learning Kubernetes ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+#### 🌱 I’m currently learning : ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
 <!--
 - 🔭 I’m currently working on ...
