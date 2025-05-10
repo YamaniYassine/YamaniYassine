@@ -5,7 +5,7 @@
 
 
 
-####  🌱  I’m currently learning : ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+####  🌱  I’m currently learning : ![Kubernetes](https://img.shields.io/badge/-Kubernetes-808080?style=flat&logo=kubernetes&logoColor=326CE5)
 
 ####  📧 Contact me at: [yamani.yassine.dev@gmail.com](mailto:yamani.yassine.dev@gmail.com)
 
