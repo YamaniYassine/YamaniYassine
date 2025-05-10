@@ -7,7 +7,7 @@
 
 ####  🌱  I’m currently learning : ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
-####  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yamani.yassine.dev@gmail.com)  Contact me at: <a href="mailto:yamani.yassine.dev@gmail.com">yamani.yassine.dev@gmail.com</a>
+####  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yamani.yassine.dev@gmail.com)   <a href="mailto:yamani.yassine.dev@gmail.com">yamani.yassine.dev@gmail.com</a>
 
 
 
