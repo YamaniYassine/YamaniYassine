@@ -1,6 +1,10 @@
 # Hi there 👋 My name is Yamani Yassine - Software Engineer
 
-👨‍💻 I’m a passionate full-stack developer with a focus on scalable web applications and DevOps practices. I love learning, building, and sharing knowledge.
+👨‍💻 I’m a passionate about designing and delivering high-quality, user-focused web applications.
+
+I specialize in full-stack development across JavaScript and PhP ecosystems, with hands-on experience in React, Vue, Node.js, FastAPI, and PHP frameworks (Laravel, Symfony). My goal is to build scalable, performant, and secure solutions that solve real-world problems and deliver measurable value.
+
+I’ve led projects from conception to production — such as TheTipTop, a full MERN platform with CI/CD pipelines and monitoring, and a PDF Editor Web App, enabling real-time editing, merging, and compression of PDFs using FastAPI and Next.js.
 
 ---
 
